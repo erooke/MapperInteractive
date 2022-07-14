@@ -16,7 +16,6 @@ setup(
         'gunicorn',
         'Flask',
         'Flask-HTTPAuth==3.2.4',
-        'kmapper==1.2.0',
         'scikit-learn',
         'numpy',
         'scipy'
